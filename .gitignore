@@ -1,0 +1,14 @@
+*.DS_Store
+*.ipynb_checkpoints/
+*__pycache__/
+*.pyc
+logistic-regression/datasets/
+logistic-regression/dump/
+logistic-regression/plot/
+env/*
+cnn-lstm/data
+cnn-lstm/timer_summary.json
+ncf/cache/*
+ncf/ml-*m*
+cnn-lstm/stdio_exdyna*
+ncf/stdio_exdyna*
