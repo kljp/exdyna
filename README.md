@@ -56,7 +56,17 @@ $ hostip=<ip> port=<port> mpirun -np <world_size> run.sh
 
 ## Publication
 
-Under review.
+If you use this code, please cite the following [**\[Paper\]**](https://arxiv.org/abs/2402.13781):
+- **Preserving Near-Optimal Gradient Sparsification Cost for Scalable Distributed Deep Learning**. Daegun Yoon, Sangyoon Oh. ***CCGrid 2024***, May. 2024.
+
+```
+@article{yoon2024preserving,
+  title={Preserving Near-Optimal Gradient Sparsification Cost for Scalable Distributed Deep Learning},
+  author={Yoon, Daegun and Oh, Sangyoon},
+  journal={arXiv preprint arXiv:2402.13781},
+  year={2024}
+}
+```
 
 ## Contact
 
